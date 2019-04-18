@@ -9,6 +9,6 @@ JUnit is linked as a JAR at compile-time; the framework resides under package ju
 
 This library is available in all the IDE's which can be imported into the project.
 
-More information on Junit is avaliable [here]<https://en.wikipedia.org/wiki/JUnit>
+More information on Junit is avaliable [here](https://en.wikipedia.org/wiki/JUnit)
 
 
